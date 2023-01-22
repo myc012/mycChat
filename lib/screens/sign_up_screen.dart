@@ -134,7 +134,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('CHATTER'),
+        title: const Text('myChat'),
         centerTitle: true,
         backgroundColor: Colors.transparent,
         elevation: 0,
