@@ -1,1 +1,1 @@
-"# mycChat" 
+"# myChat" 
